@@ -1,0 +1,161 @@
+{
+  "animales": [
+    {
+      "id": 1,
+      "imagen": "gaot.jpeg",
+      "nombre": "Michinator",
+      "edad": 5,
+      "raza": "Callejero",
+      "color": "negro",
+      "dueño": "Diego Aceros"
+    },
+    {
+      "id": 2,
+      "imagen": "gaot.jpeg",
+      "nombre": "Misifu",
+      "edad": 7,
+      "raza": "Esfinge",
+      "color": "piel",
+      "dueño": "Mario Suarez"
+    },
+    {
+      "id": 3,
+      "imagen": "firulais.jpg",
+      "nombre": "Luna",
+      "edad": 6,
+      "raza": "Chandoso",
+      "color": "mugre",
+      "dueño": "Moon"
+    },
+    {
+      "id": 4,
+      "imagen": "gaot.jpeg",
+      "nombre": "Señor Bigotes",
+      "edad": 9,
+      "raza": "Callejero",
+      "color": "mono",
+      "dueño": "Isomorphism"
+    }
+  ],
+  "juguetes": [
+    {
+      "id": 1,
+      "nombre": "Pelota con sonido",
+      "imagen": "huesoperro.jpg",
+      "material": "plastico",
+      "precio": 1000,
+      "fabricante": "PerroJuguetes",
+      "disponibilidad": 10
+    },
+    {
+      "id": 2,
+      "nombre": "Oso de felpa",
+      "imagen": "osofelpa.jpg",
+      "material": "felpa",
+      "precio": 3500,
+      "fabricante": "GatoJuguetes",
+      "disponibilidad": 4
+    },
+    {
+      "id": 3,
+      "nombre": "Hueso de hule",
+      "imagen": "huesoperro.jpg",
+      "material": "hule",
+      "precio": 2000,
+      "fabricante": "Matel",
+      "disponibilidad": 8
+    },
+    {
+      "id": 4,
+      "nombre": "Hueso para perro",
+      "imagen": "huesoperro.jpg",
+      "material": "Hueso",
+      "precio": 800,
+      "fabricante": "Huesitos",
+      "disponibilidad": 15
+    }
+  ],
+  "propietario": [
+    {
+      "id": 1,
+      "nombre": "Diego Fernando Aceros Villalba",
+      "imagen": "7.png",
+      "direccion": "cra 15 #198-34",
+      "numero": 3165214897,
+      "mascota": "Michinator",
+      "edad": 20
+    },
+    {
+      "id": 2,
+      "nombre": "Mario Andres Suarez Caro",
+      "imagen": "6.png",
+      "direccion": "cra 15 #198-34",
+      "numero": 3165214897,
+      "mascota": "Misifu",
+      "edad": 25
+    },
+    {
+      "id": 3,
+      "nombre": "MOON",
+      "imagen": "7.png",
+      "direccion": "cra 15 #198-34",
+      "numero": 3165214897,
+      "mascota": "Luna",
+      "edad": 30
+    },
+    {
+      "id": 4,
+      "nombre": "Isomorphism",
+      "imagen": "6.png",
+      "direccion": "cra 15 #198-34",
+      "numero": 3165214897,
+      "mascota": "Señor Bigotes",
+      "edad": 35
+    }
+  ],
+  "servicios": [
+    {
+      "id": 1,
+      "nombre": "Baño",
+      "imagen": "baño.jpg",
+      "precio": 100000,
+      "especialista": "Mario Suarez",
+      "trabajadores": 3
+    },
+    {
+      "id": 2,
+      "nombre": "Desparasitacion",
+      "imagen": "desparacitacion.jpg",
+      "precio": 50000,
+      "especialista": "Camilo Hernandez",
+      "trabajadores": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Castración",
+      "imagen": "castracion.jpg",
+      "precio": 30000,
+      "especialista": "Camilo Sanchez",
+      "trabajadores": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Corte De Pelo",
+      "imagen": "corte.jpg",
+      "precio": 80000,
+      "especialista": "Anderson Monsalve",
+      "trabajadores": 2
+    }
+  ],
+  "facturado": [
+    {
+      "id": 1,
+      "nombre": "Andres",
+      "imagen": "chulo.png",
+      "nombreMascota": "Pelusa",
+      "servicio": "Baño",
+      "precio": 50000,
+      "especialista": "Tego Calderon"
+    }
+  ]
+}
